@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benjamin-chidera
 - 👀 I’m interested in building real world apps using React js
-- 🌱 I’m currently learning React js and build real world applications 💻
+- 🌱 I’m using React js to build real world applications 💻
 - 💞️ I’m looking to collaborate on building real world apps
 - 📫 How to reach me - benjaminchidera72@gmail.com
 
