@@ -1,4 +1,18 @@
-- 👋 Hi, I’m Benjamin Chidera from Nigeria, and I am a front-end developer. I enjoy working with a language like Javascript and a framework like React JS and Next JS, and I'm currently working on my back-end knowledge. You can out my twitter at https://twitter.com/BenjaminChide14 or my instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
+### Hi there! 👋, my name is Benjamin chidera
+#### I am a front-end developer 
+![I am a frontend developer ](https://media.istockphoto.com/id/1469534804/vector/computer-programming-banner-design-with-place-for-text-coding-and-software-development-web.jpg?s=612x612&w=0&k=20&c=QTuC8wI12GDZOuzG3YfNO7yZnwyRMVObiMMhKFwAyJw=)
+
+I'm a React developer dedicated to providing advanced web solutions using ReactJs technology. I am very passionate about improving my coding skills and developing applications and websites.
+
+I began my journey as a front-end developer in 2023, and since then, I've continued to grow and evolve as a developer, taking on new challenges and learning the latest technologies along the way. I build web applications using modern technologies such as React, Tailwind, Bootstrap, Supabase, e.t.c.
+
+Skills: HTML CSS, JS ReactJS, NextJS, Bootstrap, Tailwind CSS, Styled Components, and Supabase
+
+
+
+
+
+You can out my twitter at https://twitter.com/BenjaminChide14 or my instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
 
 
 
