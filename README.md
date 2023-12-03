@@ -12,7 +12,7 @@ Skills: HTML CSS, JS ReactJS, NextJS, Bootstrap, Tailwind CSS, Styled Components
 
 
 
-You can out my twitter at https://twitter.com/BenjaminChide14 or my instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
+You can check out my twitter at https://twitter.com/BenjaminChide14 or my instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
 
 
 
