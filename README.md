@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Benjamin Chicera from Nigeria, and I am a front-end developer. I enjoy working with a language like Javascript and a framework like React JS and Next JS, and I'm currently working on my back-end knowledge. You can out my twitter at https://twitter.com/BenjaminChide14 or my instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
+- 👋 Hi, I’m Benjamin Chidera from Nigeria, and I am a front-end developer. I enjoy working with a language like Javascript and a framework like React JS and Next JS, and I'm currently working on my back-end knowledge. You can out my twitter at https://twitter.com/BenjaminChide14 or my instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-chidera&hide=contribs,prs)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-chidera)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
