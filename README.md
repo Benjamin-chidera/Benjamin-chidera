@@ -13,7 +13,6 @@ Skills:
 
 You can check out my Twitter at https://twitter.com/BenjaminChide14 or my Instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
 
-Skills: HTML CSS, JS ReactJS, NextJS, Bootstrap, Tailwind CSS, Styled Components, and Supabase
 
 - 🌱 I’m currently learning Typescript and Node js 
 - 📫 How to reach me: benjaminchidera72@gmail.com or +234 9048401533 
