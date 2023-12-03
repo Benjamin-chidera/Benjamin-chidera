@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Benjamin chidera
+### Hi there! 👋, my name is Benjamin chidera
 #### I am a front-end developer
 ![I am a front-end developer](https://camo.githubusercontent.com/ac895a6ef39411043865cf941fa81dda029820796b5f65ccf345e9f4cecb2e9e/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313436393533343830342f766563746f722f636f6d70757465722d70726f6772616d6d696e672d62616e6e65722d64657369676e2d776974682d706c6163652d666f722d746578742d636f64696e672d616e642d736f6674776172652d646576656c6f706d656e742d7765622e6a70673f733d3631327836313226773d30266b3d323026633d51547543387749313247445a4f757a473359664e4f37795a6e7779524d564f62694d4d684b467741794a773d)
 
@@ -11,7 +11,7 @@ Skills:
 • ❄️ ReactJS, NextJS, 
 • 👨‍💻 Bootstrap, Tailwind CSS, Styled Components, and Supabase
 
-You can check out my Twitter at https://twitter.com/BenjaminChide14 or my instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
+You can check out my Twitter at https://twitter.com/BenjaminChide14 or my Instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
 
 Skills: HTML CSS, JS ReactJS, NextJS, Bootstrap, Tailwind CSS, Styled Components, and Supabase
 
@@ -25,7 +25,7 @@ Skills: HTML CSS, JS ReactJS, NextJS, Bootstrap, Tailwind CSS, Styled Components
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-chidera)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats]] (https://github-readme-stats.vercel.app/api?username=Benjamin-chidera)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
