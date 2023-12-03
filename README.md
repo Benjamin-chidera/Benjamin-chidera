@@ -6,7 +6,7 @@ I'm a React developer dedicated to providing advanced web solutions using ReactJ
 
 I began my journey as a front-end developer in 2023, and since then, I've continued to grow and evolve as a developer, taking on new challenges and learning the latest technologies along the way. I build web applications using modern technologies such as React, Tailwind, Bootstrap, Supabase, e.t.c.
 
-Skills: 
+Skills:  
 • 💻 HTML CSS, JS , Typescript
 • ❄️ ReactJS, NextJS, 
 • 👨‍💻 Bootstrap, Tailwind CSS, Styled Components, and Supabase
