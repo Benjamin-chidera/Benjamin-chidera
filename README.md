@@ -22,9 +22,9 @@ You can check out my Twitter at https://twitter.com/BenjaminChide14 or my Instag
 
 
 ## Projects
-1. <img src="https://food2001.netlify.app/assets/food1-11260a92.jpeg" width="256"/>
+1. <img src="https://food2001.netlify.app/assets/food1-11260a92.jpeg" width="256" height="70"/>
 
-2. <img src="[https://food2001.netlify.app/assets/food1-11260a92.jpeg](https://myblog2001.netlify.app/assets/logo-86125ae6.png)" width="250"/>
+2. <img src="[https://food2001.netlify.app/assets/food1-11260a92.jpeg](https://myblog2001.netlify.app/assets/logo-86125ae6.png)" width="250" height="70"/>
 
 
 
