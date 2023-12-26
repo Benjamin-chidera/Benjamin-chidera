@@ -6,10 +6,20 @@ I'm a React developer dedicated to providing advanced web solutions using ReactJ
 
 I began my journey as a front-end developer in 2023, and since then, I've continued to grow and evolve as a developer, taking on new challenges and learning the latest technologies along the way. I build web applications using modern technologies such as React, Tailwind, Bootstrap, Supabase, e.t.c.
 
-Skills:  
-• 💻 HTML CSS, JS , Typescript
-• ❄️ ReactJS, NextJS, 
-• 👨‍💻 Bootstrap, Tailwind CSS, Styled Components, and Supabase
+##  Skills:  
+<ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JAVASCRIPT</li>
+ <li>TYPESCRIPT</li>
+ <li>REACT JS</li>
+ <li>NEXT JS</li>
+ <li>BOOTSTRAP</li>
+ <li>TAILWIND CSS</li>
+ <li>STYLED COMPONENTS</li>
+ <li>SUPABASE</li>
+</ul>
+
 
 You can check out my Twitter at https://twitter.com/BenjaminChide14 or my Instagram at https://instagram.com/benjamin_c.dev?igshid=MzMyNGUyNmU2YQ==.
 
@@ -30,11 +40,6 @@ You can check out my Twitter at https://twitter.com/BenjaminChide14 or my Instag
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-chidera)](https://github.com/anuraghazra/github-readme-stats)
 
 
- 
-- 👀 I’m interested in building real world apps using React js
-- 🌱 I’m using React js to build real world applications 💻
-- 💞️ I’m looking to collaborate on building real-world apps
-- 📫 How to reach me - benjaminchidera72@gmail.com
 
 
 
