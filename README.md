@@ -1,11 +1,31 @@
-### Hi there! 👋, my name is Benjamin chidera  [![](https://visitcount.itsvg.in/api?id=Benjamin-chidera&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Benjamin-chidera&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### I am a front-end developer
 ![I am a front-end developer](https://camo.githubusercontent.com/ac895a6ef39411043865cf941fa81dda029820796b5f65ccf345e9f4cecb2e9e/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f69642f313436393533343830342f766563746f722f636f6d70757465722d70726f6772616d6d696e672d62616e6e65722d64657369676e2d776974682d706c6163652d666f722d746578742d636f64696e672d616e642d736f6674776172652d646576656c6f706d656e742d7765622e6a70673f733d3631327836313226773d30266b3d323026633d51547543387749313247445a4f757a473359664e4f37795a6e7779524d564f62694d4d684b467741794a773d)
 
-I'm a React developer dedicated to providing advanced web solutions using ReactJs technology. I am very passionate about improving my coding skills and developing applications and websites.
+### About Me
 
-I began my journey as a front-end developer in 2023, and since then, I've continued to grow and evolve as a developer, taking on new challenges and learning the latest technologies along the way. I build web applications using modern technologies such as React, Tailwind, Bootstrap, Supabase, e.t.c.
+👋 Hi there! I'm <b>Benjamin Benjamin chidera</b> , a passionate React developer on a mission to build engaging web applications. Since starting my journey in 2023, I've embraced modern technologies like React, Tailwind, Bootstrap, and Supabase to craft seamless and user-friendly experiences.
+
+#### What I Do
+
+- 🚀 I specialize in building web applications using React.
+- 💡 Proficient with technologies such as Tailwind, Bootstrap, and Supabase.
+- 🌐 Always exploring new tools and techniques to improve my coding skills.
+
+#### Projects
+
+- 🌟 [Delicious Food 🍗](https://food2001.netlify.app/): Delicious Food is a delectable food website meticulously crafted with React and styled using Tailwind CSS. It's a feast for the eyes and the perfect destination for food enthusiasts. Explore a world of mouthwatering recipes, culinary tips, and a vibrant community of food lovers, all presented in a visually stunning and responsive design. Discover, share, and savor the flavors of Delicious Food, where every click leads to a delightful culinary adventure.
+- 🌟 [Blog & News 👨‍💻📰](https://myblog2001.netlify.app/): Blog & News, developed with React, styled with Tailwind CSS, and powered by Supabase, is your gateway to a world of insightful content and breaking news. Our website seamlessly combines sleek design and cutting-edge technology, providing a user-friendly experience. Explore a wide range of articles, stories, and the latest news, all presented in a visually stunning and responsive layout. Blog & News welcomes you to dive into a world of knowledge, where every click connects you to a universe of information, made easily accessible with React, Tailwind, and Supabase.
+- 🌟 [BENIXMALL](https://benix2001.netlify.app/): An ecommerce site where consumers can buy products online. It typically offers a user-friendly interface for browsing, selecting, and purchasing items, as well as secure payment and shipping options, making it convenient for people to shop from the comfort of their own homes.
+
+#### Get in Touch
+
+- 📧 Email: benjaminchidera72@gmail.com
+- 🌐 Portfolio: [Portfolio](benjamin2001.netlify.app)
+
+#### Let's Code Together!
+
+Feel free to reach out if you're interested in collaborating on exciting projects or just want to connect. Happy coding! 🚀
 
 
 ## 🌐 Socials:
