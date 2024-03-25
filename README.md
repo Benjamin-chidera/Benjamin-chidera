@@ -7,7 +7,7 @@ Full Stack Developer
 I am a dedicated problem solver and solution-oriented Full Stack Web Developer with one year of hands-on experience, proficient in both Front-end and Back-end technologies. Since beginning my journey as a Front-end Developer in 2023, I have continued to grow and evolve, taking on new challenges and learning the latest technologies along the way. I specialize in building robust and scalable web applications using modern technologies such as React, Tailwind CSS, Bootstrap, MongoDB, Node.js, Express.js, and Supabase. My skill set extends beyond coding to encompass effective communication, collaboration, and thorough technical documentation.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://-am-benjamin.vercel.app)
+* 🖥️  See my portfolio at [My Portfolio](http://i-am-benjamin.vercel.app)
 * ✉️  You can contact me at [benjaminchidera72@gmail.com](mailto:benjaminchidera72@gmail.com)
 * 🚀  I'm currently working on [A Real Estate App](http://yem-says-fawn.vercel.app/)
 * 🧠  I'm learning Redux Toolkit and Typescript
