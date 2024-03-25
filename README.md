@@ -4,24 +4,25 @@
 
 ### About Me
 
-👋 Hi there! I'm <b>Benjamin Benjamin chidera</b> , a passionate React developer on a mission to build engaging web applications. Since starting my journey in 2023, I've embraced modern technologies like React, Tailwind, Bootstrap, and Supabase to craft seamless and user-friendly experiences.
+👋 Hi there! I'm <b>Benjamin Benjamin chidera</b> , I am a dedicated problem solver and solution-oriented Full Stack Web Developer with one year of hands-on experience, proficient in both Front-end and Back-end technologies. Since beginning my journey as a Front-end Developer in 2023, I have continued to grow and evolve, taking on new challenges and learning the latest technologies along the way. I specialize in building robust and scalable web applications using modern technologies such as React, Tailwind CSS, Bootstrap, MongoDB, Node.js, Express.js, and Supabase. My skill set extends beyond coding to encompass effective communication, collaboration, and thorough technical documentation.
+
 
 #### What I Do
 
-- 🚀 I specialize in building web applications using React.
-- 💡 Proficient with technologies such as Tailwind, Bootstrap, and Supabase.
+- 🚀 I specialize in building web applications using React, Express, Mongo DB, Next js.
+- 💡 Proficient with technologies such as Tailwind, Bootstrap, and Supabase, Mongo DB.
 - 🌐 Always exploring new tools and techniques to improve my coding skills.
 
 #### Projects
 
-- 🌟 [Delicious Food 🍗](https://food2001.netlify.app/): Delicious Food is a delectable food website meticulously crafted with React and styled using Tailwind CSS. It's a feast for the eyes and the perfect destination for food enthusiasts. Explore a world of mouthwatering recipes, culinary tips, and a vibrant community of food lovers, all presented in a visually stunning and responsive design. Discover, share, and savor the flavors of Delicious Food, where every click leads to a delightful culinary adventure.
-- 🌟 [Blog & News 👨‍💻📰](https://myblog2001.netlify.app/): Blog & News, developed with React, styled with Tailwind CSS, and powered by Supabase, is your gateway to a world of insightful content and breaking news. Our website seamlessly combines sleek design and cutting-edge technology, providing a user-friendly experience. Explore a wide range of articles, stories, and the latest news, all presented in a visually stunning and responsive layout. Blog & News welcomes you to dive into a world of knowledge, where every click connects you to a universe of information, made easily accessible with React, Tailwind, and Supabase.
-- 🌟 [BENIXMALL](https://benix2001.netlify.app/): An ecommerce site where consumers can buy products online. It typically offers a user-friendly interface for browsing, selecting, and purchasing items, as well as secure payment and shipping options, making it convenient for people to shop from the comfort of their own homes.
+- 🌟 [YEMSAYS](https://yem-says-fawn.vercel.app/): YemSays is a comprehensive real estate project designed to provide customers with a seamless experience in viewing and booking properties. The platform allows customers to browse through a diverse range of properties, view detailed information, and schedule inspections to physically visit the properties they are interested in. Additionally, the system empowers administrators with the capability to upload available properties, manage property listings, and oversee the bookings made by customers for property inspections.
+- 🌟 [POSTIT 👨‍💻📰](https://postit-blog-six.vercel.app/): PostIt is a dynamic blog site designed to facilitate seamless posting, viewing, editing, and deletion of blog posts. The platform empowers users to share their thoughts and ideas through posts while providing an interactive experience for readers to engage with the content. Key features include the ability to create, view, edit, and delete posts, as well as comment on posts and manage comments.
+  
 
 #### Get in Touch
 
 - 📧 Email: benjaminchidera72@gmail.com
-- 🌐 Portfolio: [Portfolio](benjamin2001.netlify.app)
+- 🌐 Portfolio: [Portfolio](https://i-am-benjamin.vercel.app/)
 
 #### Let's Code Together!
 
@@ -29,7 +30,7 @@ Feel free to reach out if you're interested in collaborating on exciting project
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benjamin_c.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/benjamin-benjamin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Benjamin@Dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Benjamin_Dev)   [![WhatsApp](https://img.shields.io/badge/WhatsApp-%231DA1F2.svg?logo=WhatsApp&logoColor=green)](https://wa.me/09048401533)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benjamin_c.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/benjamin-benjamin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Benjamin@Dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Benjamin_Dev)   [![WhatsApp](https://img.shields.io/badge/WhatsApp-%231DA1F2.svg?logo=WhatsApp&logoColor=green)](https://wa.me/09048401533)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
