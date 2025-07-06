@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SOFTWARE ENGINEER 💻 👨‍💻 
 --------------------
 
-I am a dedicated problem solver and solution-oriented Full Stack Web Developer with one year of hands-on experience, proficient in both Front-end and Back-end technologies. Since beginning my journey as a Front-end Developer in 2023, I have continued to grow and evolve, taking on new challenges and learning the latest technologies along the way. I specialize in building robust and scalable web applications using modern technologies such as React, Tailwind CSS, Bootstrap, MongoDB, Node.js, Express.js, and Supabase. My skill set extends beyond coding to encompass effective communication, collaboration, and thorough technical documentation.
+I am a dedicated problem solver and solution-oriented SOFTWARE ENGINEER with over 3 years of hands-on experience, proficient in both Front-end and Back-end technologies. Since beginning my journey as a Front-end Developer in 2022, I have continued to grow and evolve, taking on new challenges and learning the latest technologies along the way. I specialize in building robust and scalable web applications using modern technologies such as Next.js React, Tailwind CSS, Bootstrap, MongoDB, Node.js, Express.js, React Native, FastAPI, AI Engineering. My skill set extends beyond coding to encompass effective communication, collaboration, and thorough technical documentation.
 
-* 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://i-am-benjamin.vercel.app)
+* 🌍  I'm based in Dundee, Scotland
+* 🖥️  See my portfolio at [My Portfolio](https://www.discoverbenix.com/)
 * ✉️  You can contact me at [benjaminchidera72@gmail.com](mailto:benjaminchidera72@gmail.com)
-* 🚀  I'm currently working on [A Real Estate App](http://yem-says-fawn.vercel.app/)
-* 🧠  I'm learning Redux Toolkit and Typescript
-* 🤝  I'm open to collaborating on A chat Application
+* 🚀  I'm currently working on [AN AI-POWERED STUDY PLANNER](https://studym8.vercel.app/)
+* 🧠  I'm learning AI ENGINEERING
+* 🤝  I'm open to collaborating
 
 <a href="https://www.github.com/Benjamin-chidera" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Benjamin-chidera?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/@BenjaminChide14" target="_blank" rel="noreferrer"><img
