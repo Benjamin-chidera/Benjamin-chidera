@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benjamin Chidera Benjamin
 =================================================================================================================================================
 
-Full Stack Developer
+SOFTWARE ENGINEER 💻 👨‍💻 
 --------------------
 
 I am a dedicated problem solver and solution-oriented Full Stack Web Developer with one year of hands-on experience, proficient in both Front-end and Back-end technologies. Since beginning my journey as a Front-end Developer in 2023, I have continued to grow and evolve, taking on new challenges and learning the latest technologies along the way. I specialize in building robust and scalable web applications using modern technologies such as React, Tailwind CSS, Bootstrap, MongoDB, Node.js, Express.js, and Supabase. My skill set extends beyond coding to encompass effective communication, collaboration, and thorough technical documentation.
