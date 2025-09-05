@@ -40,12 +40,17 @@ I started as a Frontend Developer in 2022, and since then I’ve grown into Full
 
 ## ⚡ Tech Stack
 
-Languages: Python, C++, JavaScript, TypeScript, SQL
-Frontend: React.js, Next.js, Tailwind CSS, Zustand, Redux Toolkit, React Query
-Backend: FastAPI, Express.js, Node.js
-Databases: MongoDB, MySQL, PostgreSQL, SQLite, Redis
-AI/ML: LangChain, LangGraph, Hugging Face, Ollama, Tesseract.js, Speech-to-Text, Text-to-Speech
-Other: Git/GitHub, Jest, REST APIs, Cloud Deployment
+Languages: Python, C++, JavaScript, TypeScript, SQL.
+
+Frontend: React.js, Next.js, Tailwind CSS, Zustand, Redux Toolkit, React Query.
+
+Backend: FastAPI, Express.js, Node.js.
+
+Databases: MongoDB, MySQL, PostgreSQL, SQLite, Redis.
+
+AI/ML: LangChain, LangGraph, Hugging Face, Ollama, Tesseract.js, Speech-to-Text, Text-to-Speech.
+
+Other: Git/GitHub, Jest, REST APIs, Cloud Deployment.
 
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Benjamin-chidera&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-chidera&theme=tokyonight" alt="GitHub Streak" height="150"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-chidera&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/> </p>
