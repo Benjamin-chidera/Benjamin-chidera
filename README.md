@@ -16,7 +16,7 @@ I started as a Frontend Developer in 2022, and since then I’ve grown into Full
 
 🗄️ Work with databases: MongoDB, PostgreSQL, MySQL, SQLite, Redis
 
-🎨 Craft responsive UIs using Tailwind CSS, Bootstrap, Zustand, Redux Toolkit, Framer Motion, ShadCN UI
+🎨 Craft responsive UIs using Tailwind CSS, Zustand, Redux Toolkit, Framer Motion, ShadCN UI
 
 🛠️ Current Projects
 
