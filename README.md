@@ -1,51 +1,64 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benjamin Chidera Benjamin
-=================================================================================================================================================
+## 👨🏾‍💻 Hi, I’m Benjamin Chidera
 
-SOFTWARE ENGINEER 💻 👨🏾‍💻
---------------------
+## SOFTWARE / AI ENGINEER 💻 🚀
 
-I am a dedicated problem solver and solution-oriented SOFTWARE ENGINEER with over 3 years of hands-on experience, proficient in both Front-end and Back-end technologies. Since beginning my journey as a Front-end Developer in 2022, I have continued to grow and evolve, taking on new challenges and learning the latest technologies along the way. I specialize in building robust and scalable web applications using modern technologies such as Next.js React, Tailwind CSS, Bootstrap, MongoDB, Node.js, Express.js, React Native, FastAPI, AI Engineering. My skill set extends beyond coding to encompass effective communication, collaboration, and thorough technical documentation.
+I’m a solution-oriented Software/AI Engineer with 3+ years of experience in designing, developing, and deploying scalable applications. Passionate about combining AI, web technologies, and intelligent systems to build impactful products.
 
-* 🌍  I'm based in Dundee, Scotland
-* 🖥️  See my portfolio at [My Portfolio](https://www.discoverbenix.com/)
-* ✉️  You can contact me at [benjaminchidera72@gmail.com](mailto:benjaminchidera72@gmail.com)
-* 🚀  I'm currently working on [AN AI-POWERED STUDY PLANNER](https://studym8.vercel.app/)
-* 🧠  I'm learning AI ENGINEERING
-* 🤝  I'm open to collaborating
+I started as a Frontend Developer in 2022, and since then I’ve grown into Fullstack & AI Engineering, continuously learning, experimenting, and creating solutions that push boundaries.
 
-<a href="https://www.github.com/Benjamin-chidera" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Benjamin-chidera?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/@BenjaminChide14" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@BenjaminChide14?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+## 🚀 What I Do
 
-### Skills
+💻 Build scalable web apps with React, Next.js, FastAPI, Express.js, Node.js
 
+🧠 Engineer AI-powered solutions with LangChain, LLMs, RAG, Embeddings, Agents, Hugging Face Transformers
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a>
-</p>
+📱 Develop cross-platform apps with React Native
 
+🗄️ Work with databases: MongoDB, PostgreSQL, MySQL, SQLite, Redis
 
-### Socials
+🎨 Craft responsive UIs using Tailwind CSS, Bootstrap, Zustand, Redux Toolkit, Framer Motion, ShadCN UI
 
-<p align="left"> <a href="https://www.github.com/Benjamin-chidera" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/benjamin_c.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/benjamin-benjamin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/@BenjaminChide14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+🛠️ Current Projects
 
-### Badges
+🧠 StudyM8 – AI-powered study planner that generates personalized roadmaps from images, PDFs, and text.
 
-<b>My GitHub Stats</b>
+🏥 Curaflux – Healthcare staffing platform inspired by the Uber model.
 
-<a href="http://www.github.com/Benjamin-chidera"><img src="https://github-readme-stats.vercel.app/api?username=Benjamin-chidera&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Benjamin-chidera's GitHub stats" /></a>
+🤖 Exploring AI Engineering: embeddings, RAG, LLM fine-tuning, and intelligent automation.
 
-<a href="http://www.github.com/Benjamin-chidera"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-chidera&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+## 🌍 About Me
 
-<a href="http://www.github.com/Benjamin-chidera"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Benjamin-chidera&bg_color=1c1917&color=14b8a6&line=0891b2&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+📍 Based in Dundee, Scotland
 
-<a href="https://github.com/Benjamin-chidera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-chidera&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+🖥️ Portfolio: discoverbenix.com
 
-<b>Top Repositories</b>
+✉️ Reach me at benjaminchidera72@gmail.com
 
-<div width="100%" align="center"><a href="https://github.com/Benjamin-chidera/Postit-blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-chidera&repo=Postit-blog&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Benjamin-chidera/yemSays-RealEstate" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-chidera&repo=yemSays-RealEstate&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+🧑🏾‍🏫 Volunteer JavaScript Tutor & Hackathon Finalist (2nd place & Top 10)
 
-<br /><br /><br /><br /><br />
+🤝 Open to collaboration on AI, scalable platforms, and web innovation
 
-<div width="100%" align="center"><a href="https://github.com/Benjamin-chidera/10X-Revenue-Growth" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-chidera&repo=10X-Revenue-Growth&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Benjamin-chidera/I_AM_BENJAMIN" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-chidera&repo=I_AM_BENJAMIN&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+## ⚡ Tech Stack
+
+Languages: Python, C++, JavaScript, TypeScript, SQL
+Frontend: React.js, Next.js, Tailwind CSS, Zustand, Redux Toolkit, React Query
+Backend: FastAPI, Express.js, Node.js
+Databases: MongoDB, MySQL, PostgreSQL, SQLite, Redis
+AI/ML: LangChain, LangGraph, Hugging Face, Ollama, Tesseract.js, Speech-to-Text, Text-to-Speech
+Other: Git/GitHub, Jest, REST APIs, Cloud Deployment
+
+## 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Benjamin-chidera&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-chidera&theme=tokyonight" alt="GitHub Streak" height="150"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-chidera&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/> </p>
+
+## 📌 Featured Repositories  
+
+<p align="center">
+  <a href="https://github.com/Benjamin-chidera/Postit-blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-chidera&repo=Postit-blog&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Benjamin-chidera/automated-study-planner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-chidera&repo=automated-study-planner&theme=tokyonight" />
+  </a>
+</p>  
+
+🔥 “Code + AI = The future I’m building today.”
