@@ -30,7 +30,7 @@ I started as a Frontend Developer in 2022, and since then I’ve grown into Full
 
 📍 Based in Dundee, Scotland
 
-🖥️ Portfolio: discoverbenix.com
+🖥️ Portfolio: https://www.discoverbenix.com
 
 ✉️ Reach me at benjaminchidera72@gmail.com
 
