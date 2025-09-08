@@ -15,7 +15,10 @@ import asyncio
 import logging
 from typing import Optional, Dict, Any, List, Union
 import json
-import aiohttp
+try:
+    import aiohttp
+except ImportError:
+    aiohttp = None
 
 try:
     from openai import OpenAI
@@ -207,6 +210,9 @@ class LLMProcessor:
         prompt = context + f"Human: {message}\nAssistant:"
         
         # Make request to Ollama API
+        if aiohttp is None:
+            raise Exception("aiohttp is required for Ollama provider")
+        
         async with aiohttp.ClientSession() as session:
             payload = {
                 "model": self.model_name,

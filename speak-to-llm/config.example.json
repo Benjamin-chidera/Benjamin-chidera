@@ -1,0 +1,35 @@
+{
+  "stt": {
+    "provider": "whisper_local",
+    "whisper_model": "base",
+    "language": "en",
+    "sample_rate": 16000,
+    "chunk_size": 1024,
+    "channels": 1
+  },
+  "tts": {
+    "provider": "pyttsx3",
+    "language": "en",
+    "speed": 150,
+    "volume": 0.9,
+    "voice_id": null
+  },
+  "llm": {
+    "provider": "openai",
+    "model_name": "gpt-3.5-turbo",
+    "max_tokens": 150,
+    "temperature": 0.7,
+    "system_prompt": "You are a helpful and friendly AI assistant with voice capabilities. Keep your responses conversational, concise, and appropriate for spoken dialogue."
+  },
+  "audio": {
+    "input_device": null,
+    "output_device": null,
+    "silence_threshold": 1000,
+    "silence_duration": 1.0
+  },
+  "app": {
+    "log_level": "INFO",
+    "save_conversations": true,
+    "conversation_dir": "./conversations"
+  }
+}
