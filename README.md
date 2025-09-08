@@ -64,6 +64,25 @@ Other: Git/GitHub, Jest, REST APIs, Cloud Deployment.
   <a href="https://github.com/Benjamin-chidera/automated-study-planner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-chidera&repo=automated-study-planner&theme=tokyonight" />
   </a>
-</p>  
+</p>
+
+## 🚀 Latest Project
+
+### 🎤 speak-to-llm
+**Created a text to speech-speech to text/llm integration application**
+
+A comprehensive AI-powered voice assistant that combines:
+- 🎤 **Speech-to-Text**: Real-time voice recognition using OpenAI Whisper
+- 🗣️ **Text-to-Speech**: Natural voice synthesis with multiple providers
+- 🧠 **LLM Integration**: Intelligent conversations using GPT, Ollama, or Hugging Face models
+
+**Key Features:**
+- Voice-to-voice conversations with AI
+- Multiple STT/TTS provider support
+- Configurable LLM backends
+- Real-time audio processing
+- Cross-platform compatibility
+
+[📂 View Project](./speak-to-llm/) | [📖 Documentation](./speak-to-llm/docs/)</p>  
 
 🔥 “Code + AI = The future I’m building today.”
