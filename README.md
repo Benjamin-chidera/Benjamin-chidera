@@ -8,7 +8,7 @@ I started as a Frontend Developer in 2022, and since then I’ve grown into Full
 
 ## 🚀 What I Do
 
-💻 Build scalable web apps with React, Next.js, FastAPI, Express.js, Node.js
+💻 Build scalable web apps with React, Next.js, React Native, FastAPI, Express.js, Node.js
 
 🧠 Engineer AI-powered solutions with LangChain, LLMs, RAG, Embeddings, Agents, Hugging Face Transformers
 
@@ -42,7 +42,7 @@ I started as a Frontend Developer in 2022, and since then I’ve grown into Full
 
 Languages: Python, C++, JavaScript, TypeScript, SQL.
 
-Frontend: React.js, Next.js, Tailwind CSS, Zustand, Redux Toolkit, React Query.
+Frontend: React.js, Next.js, React Native, Tailwind CSS, Zustand, Redux Toolkit, React Query.
 
 Backend: FastAPI, Express.js, Node.js.
 
